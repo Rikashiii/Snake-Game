@@ -6,7 +6,7 @@ It makes use of the 'turtle' module.
 
 # Information
 
-This project is made using the concept of Object Oriented Programming with the use of different modules such as turtle, time, random.
+This project is made using the concept of Object Oriented Programming with the use of different modules such as turtle, time, random and some user-defined modules.
 
 # Instructions
 
